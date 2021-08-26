@@ -1,4 +1,4 @@
-# pomodore_list
+# POMODORE APP USİNG FLUTTER
 
 A new Flutter project.
 
